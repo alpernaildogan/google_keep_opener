@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Keep Google Popup",
+  "name": "Google Keep popup!",
   "version": "1.0",
-  "description": "Open keep.google.com in a popup window",
+  "description": "Opens the keep.google.com in a popup window",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",

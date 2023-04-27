@@ -3,8 +3,8 @@ chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
       url: 'https://keep.google.com',
       type: 'popup',
       focused: true,
-      width: 500,
-      height: 800
+      width: 800,
+      height: 700
     });
   });
   
