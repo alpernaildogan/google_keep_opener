@@ -4,7 +4,7 @@ Get ready to elevate your browsing experience with this amazing extension! With 
 
 How to install: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked 
 
-![Image](../popup_opener/example.png)
+![Image](https://github.com/alpernaildogan/popup_opener/blob/main/example.png)
 
 
 
